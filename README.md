@@ -9,3 +9,10 @@
 
 
 По трудозатратам 8 часов
+
+
+## Решение
+
+предлагается скачать архив https://github.com/shaneshka/shortLinks/blob/master/shotLinks.rar и запустить .exe
+- Api - /api/shorts
+- UI - /fetch-data
