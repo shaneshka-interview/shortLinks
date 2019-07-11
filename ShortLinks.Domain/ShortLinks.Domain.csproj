@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShortLinks.Contracts\ShortLinks.Contracts.csproj" />
+    <ProjectReference Include="..\ShortLinks.Errors\ShortLinks.Errors.csproj" />
+    <ProjectReference Include="..\ShortLinks.Interfaces\ShortLinks.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
